@@ -12,7 +12,7 @@ void printmessage()
 	cout << "Hello World!" << endl;
 	printmessage2();
 }
-"kuku";
+
 int main()
 {
 	for (int i = 0; i<5; i++)
